@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FDB739&width=435&lines=Hello+my+name+is+Kevilyn;i'm+20+years+old;i+from+Brazil+%F0%9F%99%82)](https://git.io/typing-svg)
 
-<h2 height="10px">Studing</h2>
+<h2 height="10px">Studying</h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DAC32B&width=435&lines=.+.+.;.+.+.;.+.+.;.+.+.)](https://git.io/typing-svg)
 
