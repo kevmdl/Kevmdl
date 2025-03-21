@@ -21,9 +21,6 @@ From 🇧🇷
 <a href="https://www.instagram.com/kevimdl/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-kevimdl-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://twitter.com/Kevmdl" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-kevimdl-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
 </p>
 
 
